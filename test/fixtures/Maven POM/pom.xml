@@ -15,13 +15,13 @@
  <dependency>
  <groupId>org.testng</groupId>
  <artifactId>testng</artifactId>
- <version>7.0.0</version>
+ <version>7.3.0</version>
  </dependency>
  <!-- Adding Selenium dependency -->
  <dependency>
  <groupId>org.seleniumhq.selenium</groupId>
  <artifactId>selenium-server</artifactId>
- <version>3.13.0</version>
+ <version>3.141.0</version>
  </dependency>
  </dependencies>
  <build>
